@@ -42,7 +42,7 @@ The purpose is to support decision makers planning to improve the liveability of
 
 # Constraints
 None: input data are commonly available. 
-They can all be derived from OSMalmost everywhere. If accurate dataset is locally available, for example from the municipality, the results improve.
+They can all be derived from OSM almost everywhere. If accurate dataset is locally available, for example from the municipality, the results improve.
 
 
 
